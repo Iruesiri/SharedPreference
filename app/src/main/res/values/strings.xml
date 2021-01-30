@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecondProject</string>
+    <string name="checkbox">checkbox</string>
+    <string name="name">username</string>
+    <string name="password">password</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

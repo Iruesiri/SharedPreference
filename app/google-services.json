@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919694061963",
+    "project_id": "adept-lodge-303208",
+    "storage_bucket": "adept-lodge-303208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919694061963:android:4659bff70c8ec4916ebf8e",
+        "android_client_info": {
+          "package_name": "com.example.secondproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919694061963-h0gagrmigcmvd9sn585m6ci51tr8emg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPabeKRL9-pkRE01onq2akKcyDBbQR0dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919694061963-h0gagrmigcmvd9sn585m6ci51tr8emg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
