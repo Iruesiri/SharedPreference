@@ -43,7 +43,7 @@
                 android:padding="10dp"
                 android:layout_marginBottom="10dp"
                 android:id="@+id/username"
-                android:drawableLeft="@drawable/ic_giftbox"
+                android:drawableLeft="@drawable/ic_baseline_person_24"
                 />
             <TextView
                 android:layout_width="wrap_content"
